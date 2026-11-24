@@ -1,0 +1,5 @@
+site_name: MkDocs
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
